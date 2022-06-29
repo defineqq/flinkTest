@@ -30,7 +30,7 @@ public class SinkRedisString {
                 + ") WITH ( "
                 + "    'connector' = 'kafka', "
                 + "    'topic' = 'topic_1', "
-                + "    'properties.bootstrap.servers' = 'liveme_kafka_qa_01:9092', "
+                + "    'properties.bootstrap.servers' = 'defineqq_kafka_qa_01:9092', "
                 + "    'properties.group.id' = 'flink111_v5', "
                 + "    'format' = 'json', "
                 + "    'scan.startup.mode' = 'latest-offset' "
