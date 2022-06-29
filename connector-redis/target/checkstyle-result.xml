@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.14">
+<file name="/Users/congpeng/Documents/code/streaming-sql/connectors/connector-redis/src/main/java/com/datacenter/streaming/sql/connectors/redis/utils/RedisUtils.java">
+</file>
+<file name="/Users/congpeng/Documents/code/streaming-sql/connectors/connector-redis/src/main/java/com/datacenter/streaming/sql/connectors/redis/RedisSinkOptions.java">
+</file>
+<file name="/Users/congpeng/Documents/code/streaming-sql/connectors/connector-redis/src/main/java/com/datacenter/streaming/sql/connectors/redis/RedisLookupOptions.java">
+</file>
+<file name="/Users/congpeng/Documents/code/streaming-sql/connectors/connector-redis/src/main/java/com/datacenter/streaming/sql/connectors/redis/RedisOutputFormat.java">
+</file>
+<file name="/Users/congpeng/Documents/code/streaming-sql/connectors/connector-redis/src/main/java/com/datacenter/streaming/sql/connectors/redis/RedisOptions.java">
+</file>
+<file name="/Users/congpeng/Documents/code/streaming-sql/connectors/connector-redis/src/main/java/com/datacenter/streaming/sql/connectors/redis/table/RedisDynamicTableSink.java">
+</file>
+<file name="/Users/congpeng/Documents/code/streaming-sql/connectors/connector-redis/src/main/java/com/datacenter/streaming/sql/connectors/redis/table/RedisDynamicTableFactory.java">
+</file>
+<file name="/Users/congpeng/Documents/code/streaming-sql/connectors/connector-redis/src/main/java/com/datacenter/streaming/sql/connectors/redis/table/RedisDynamicTableSource.java">
+</file>
+<file name="/Users/congpeng/Documents/code/streaming-sql/connectors/connector-redis/src/main/java/com/datacenter/streaming/sql/connectors/redis/KeyType.java">
+</file>
+<file name="/Users/congpeng/Documents/code/streaming-sql/connectors/connector-redis/src/main/java/com/datacenter/streaming/sql/connectors/redis/RedisSinkFunction.java">
+</file>
+<file name="/Users/congpeng/Documents/code/streaming-sql/connectors/connector-redis/src/main/java/com/datacenter/streaming/sql/connectors/redis/RedisLookupFunction.java">
+</file>
+<file name="/Users/congpeng/Documents/code/streaming-sql/connectors/connector-redis/src/test/java/com/datacenter/streaming/sql/connectors/redis/SinkRedisHashV2.java">
+</file>
+<file name="/Users/congpeng/Documents/code/streaming-sql/connectors/connector-redis/src/test/java/com/datacenter/streaming/sql/connectors/redis/DimRedisString.java">
+</file>
+<file name="/Users/congpeng/Documents/code/streaming-sql/connectors/connector-redis/src/test/java/com/datacenter/streaming/sql/connectors/redis/SinkRedisString.java">
+</file>
+<file name="/Users/congpeng/Documents/code/streaming-sql/connectors/connector-redis/src/test/java/com/datacenter/streaming/sql/connectors/redis/DimRedisHash.java">
+</file>
+<file name="/Users/congpeng/Documents/code/streaming-sql/connectors/connector-redis/src/test/java/com/datacenter/streaming/sql/connectors/redis/SinkRedisList.java">
+</file>
+<file name="/Users/congpeng/Documents/code/streaming-sql/connectors/connector-redis/src/test/java/com/datacenter/streaming/sql/connectors/redis/SinkRedisHash.java">
+</file>
+</checkstyle>

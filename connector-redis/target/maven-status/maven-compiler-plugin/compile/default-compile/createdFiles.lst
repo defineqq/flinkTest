@@ -1,0 +1,14 @@
+com/datacenter/streaming/sql/connectors/redis/table/RedisDynamicTableSink.class
+com/datacenter/streaming/sql/connectors/redis/RedisSinkOptions.class
+com/datacenter/streaming/sql/connectors/redis/RedisSinkFunction.class
+com/datacenter/streaming/sql/connectors/redis/RedisLookupOptions$RedisLookupOptionsBuilder.class
+com/datacenter/streaming/sql/connectors/redis/RedisLookupFunction.class
+com/datacenter/streaming/sql/connectors/redis/utils/RedisUtils.class
+com/datacenter/streaming/sql/connectors/redis/RedisSinkOptions$RedisSinkOptionsBuilder.class
+com/datacenter/streaming/sql/connectors/redis/RedisOptions$RedisOptionsBuilder.class
+com/datacenter/streaming/sql/connectors/redis/KeyType.class
+com/datacenter/streaming/sql/connectors/redis/RedisOptions.class
+com/datacenter/streaming/sql/connectors/redis/table/RedisDynamicTableFactory.class
+com/datacenter/streaming/sql/connectors/redis/table/RedisDynamicTableSource.class
+com/datacenter/streaming/sql/connectors/redis/RedisLookupOptions.class
+com/datacenter/streaming/sql/connectors/redis/RedisOutputFormat.class

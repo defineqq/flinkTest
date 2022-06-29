@@ -1,0 +1,11 @@
+/Users/congpeng/Documents/code/streaming-sql/connectors/connector-redis/src/main/java/com/datacenter/streaming/sql/connectors/redis/RedisLookupOptions.java
+/Users/congpeng/Documents/code/streaming-sql/connectors/connector-redis/src/main/java/com/datacenter/streaming/sql/connectors/redis/table/RedisDynamicTableFactory.java
+/Users/congpeng/Documents/code/streaming-sql/connectors/connector-redis/src/main/java/com/datacenter/streaming/sql/connectors/redis/table/RedisDynamicTableSource.java
+/Users/congpeng/Documents/code/streaming-sql/connectors/connector-redis/src/main/java/com/datacenter/streaming/sql/connectors/redis/utils/RedisUtils.java
+/Users/congpeng/Documents/code/streaming-sql/connectors/connector-redis/src/main/java/com/datacenter/streaming/sql/connectors/redis/RedisSinkOptions.java
+/Users/congpeng/Documents/code/streaming-sql/connectors/connector-redis/src/main/java/com/datacenter/streaming/sql/connectors/redis/RedisLookupFunction.java
+/Users/congpeng/Documents/code/streaming-sql/connectors/connector-redis/src/main/java/com/datacenter/streaming/sql/connectors/redis/table/RedisDynamicTableSink.java
+/Users/congpeng/Documents/code/streaming-sql/connectors/connector-redis/src/main/java/com/datacenter/streaming/sql/connectors/redis/RedisOptions.java
+/Users/congpeng/Documents/code/streaming-sql/connectors/connector-redis/src/main/java/com/datacenter/streaming/sql/connectors/redis/KeyType.java
+/Users/congpeng/Documents/code/streaming-sql/connectors/connector-redis/src/main/java/com/datacenter/streaming/sql/connectors/redis/RedisOutputFormat.java
+/Users/congpeng/Documents/code/streaming-sql/connectors/connector-redis/src/main/java/com/datacenter/streaming/sql/connectors/redis/RedisSinkFunction.java
