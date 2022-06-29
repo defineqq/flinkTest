@@ -7,6 +7,14 @@
     <version>1.0</version>
     <packaging>jar</packaging>
 
+    <modules>
+        <module>connector-kudu</module>
+        <module>connector-elasticsearch6</module>
+        <module>connector-elasticsearch7</module>
+        <module>connector-elasticsearch-base</module>
+
+    </modules>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <flink.version>1.11.3</flink.version>
