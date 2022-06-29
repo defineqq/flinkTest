@@ -1,0 +1,15 @@
+#POST http://qa-cp-data-effective-api-88667063.us-east-1.elb.amazonaws.com:5200/effective-api/api/offline/charging_platform2
+#Content-Type: application/json
+#Authorization: Basic ligen@cmcm.com 123qwe!@#
+#
+#
+#{
+#  "timestamp_begin": "2020-09-25 18:00:00",
+#  "timestamp_end": "2020-09-25 23:00:00",
+#  "tob_subservice_id":"live",
+#  "tob_service_id":"scdn",
+#  "tob_app_id":"1069348354",
+#  "properties":["properties__bytes","properties__bandwidth"]
+#}
+#
+#
