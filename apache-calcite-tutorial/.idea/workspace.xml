@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:calcite-tutorial-common" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6876bd52-8a73-45a9-a7a6-3639cc982a1c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-0-translation/md/0-Background.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-0-translation/md/1-Tutorial.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-0-translation/md/10-HOWTO.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-0-translation/md/2-Algebra.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-0-translation/md/3-Adapters.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-0-translation/md/4-Spatial.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-0-translation/md/5-Streaming.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-0-translation/md/6-MaterializedViews.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-0-translation/md/7-Lattices.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-0-translation/md/8-SQL.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-0-translation/md/9-Models.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-0-translation/md/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-0-translation/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-0-translation/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-1-basic/md/0-relational-algebra.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-1-basic/md/1-sql-relational-algebra.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-1-basic/md/2-sql-optimize.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-1-basic/md/3-sql-window.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-1-basic/md/4-wartermark.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-1-basic/md/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-1-basic/md/resource/periodic-watermark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-1-basic/md/resource/punctuated-watermark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-1-basic/md/resource/window-hopping.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-1-basic/md/resource/window-session.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-1-basic/md/resource/window-session1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-1-basic/md/resource/window-sliding1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-1-basic/md/resource/window-sliding2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-1-basic/md/resource/window-tumbling1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-1-basic/md/resource/window-tumbling2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-1-basic/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-1-basic/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-1-fmpp-tutorial/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-1-fmpp-tutorial/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-1-fmpp-tutorial/src/main/codegen/config.fmpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-1-fmpp-tutorial/src/main/codegen/includes/parserImpls.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-1-fmpp-tutorial/src/main/codegen/templates/Main.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-1-fmpp-tutorial/target/generated-sources/fmpp/Main.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-1-fmpp-tutorial/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-1-fmpp-tutorial/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-1-fmpp-tutorial/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-2-javacc-tutorial/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-2-javacc-tutorial/md/resource/javacc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-2-javacc-tutorial/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-2-javacc-tutorial/src/main/codegen/Calculator.jj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-2-javacc-tutorial/src/main/codegen/JavaCCGrammar.jj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-2-javacc-tutorial/src/main/codegen/XXXXX.jj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-2-javacc-tutorial/target/generated-sources/javacc/com/github/quxiucheng/parser/javacc/calc/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-2-javacc-tutorial/target/generated-sources/javacc/com/github/quxiucheng/parser/javacc/calc/CalculatorConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-2-javacc-tutorial/target/generated-sources/javacc/com/github/quxiucheng/parser/javacc/calc/CalculatorTokenManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-2-javacc-tutorial/target/generated-sources/javacc/com/github/quxiucheng/parser/javacc/calc/ParseException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-2-javacc-tutorial/target/generated-sources/javacc/com/github/quxiucheng/parser/javacc/calc/SimpleCharStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-2-javacc-tutorial/target/generated-sources/javacc/com/github/quxiucheng/parser/javacc/calc/Token.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-2-javacc-tutorial/target/generated-sources/javacc/com/github/quxiucheng/parser/javacc/calc/TokenMgrError.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-2-javacc-tutorial/target/generated-sources/javacc/com/github/quxiucheng/parser/javacc/demo/ParseException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-2-javacc-tutorial/target/generated-sources/javacc/com/github/quxiucheng/parser/javacc/demo/SimpleCharStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-2-javacc-tutorial/target/generated-sources/javacc/com/github/quxiucheng/parser/javacc/demo/Token.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-2-javacc-tutorial/target/generated-sources/javacc/com/github/quxiucheng/parser/javacc/demo/TokenMgrError.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-2-javacc-tutorial/target/generated-sources/javacc/com/github/quxiucheng/parser/javacc/demo/XXXXX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-2-javacc-tutorial/target/generated-sources/javacc/com/github/quxiucheng/parser/javacc/demo/XXXXXConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-2-javacc-tutorial/target/generated-sources/javacc/com/github/quxiucheng/parser/javacc/demo/XXXXXTokenManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-2-javacc-tutorial/target/generated-sources/javacc/com/github/quxiucheng/parser/javacc/grammar/JavaCCGrammar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-2-javacc-tutorial/target/generated-sources/javacc/com/github/quxiucheng/parser/javacc/grammar/JavaCCGrammarConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-2-javacc-tutorial/target/generated-sources/javacc/com/github/quxiucheng/parser/javacc/grammar/JavaCCGrammarTokenManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-2-javacc-tutorial/target/generated-sources/javacc/com/github/quxiucheng/parser/javacc/grammar/ParseException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-2-javacc-tutorial/target/generated-sources/javacc/com/github/quxiucheng/parser/javacc/grammar/SimpleCharStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-2-javacc-tutorial/target/generated-sources/javacc/com/github/quxiucheng/parser/javacc/grammar/Token.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-2-javacc-tutorial/target/generated-sources/javacc/com/github/quxiucheng/parser/javacc/grammar/TokenMgrError.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-3-calcite-tutorial/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-3-calcite-tutorial/md/resource/parserCode.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-3-calcite-tutorial/md/resource/parserFmpp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-3-calcite-tutorial/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-3-calcite-tutorial/src/main/java/com/github/quxiucheng/calcite/parser/tutorial/SqlNodeSqlPrettyWriterSample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-3-calcite-tutorial/src/main/java/com/github/quxiucheng/calcite/parser/tutorial/SqlParserConfigSample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-3-calcite-tutorial/src/main/java/com/github/quxiucheng/calcite/parser/tutorial/SqlParserSample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-4-calcite-custom-tutorial/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-4-calcite-custom-tutorial/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-2-parser/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/calcite-tutorial-2-parser/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-3-schema/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-3-schema/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-3-schema/src/main/java/com/github/quxiucheng/calcite/schema/tutorial/ConnectionFactoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-3-schema/src/main/java/com/github/quxiucheng/calcite/schema/tutorial/ModelHandlerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-3-schema/src/main/java/com/github/quxiucheng/calcite/schema/tutorial/TutorialColumn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-3-schema/src/main/java/com/github/quxiucheng/calcite/schema/tutorial/TutorialSchemaFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-3-schema/src/main/java/com/github/quxiucheng/calcite/schema/tutorial/TutorialTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-3-schema/src/main/java/com/github/quxiucheng/calcite/schema/tutorial/TutorialTableFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-3-schema/src/main/java/com/github/quxiucheng/calcite/schema/tutorial/TutorialTableSchema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-3-schema/src/main/resources/model.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-3-schema/src/main/resources/model.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-3-schema/src/main/resources/role/role.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-3-schema/src/main/resources/role/role.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-3-schema/src/main/resources/role/role.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-3-schema/src/main/resources/user/user.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-3-schema/src/main/resources/user/user.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-3-schema/src/main/resources/user/user.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-4-validator/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-4-validator/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-4-validator/validator-1-calcite-validator/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-4-validator/validator-1-calcite-validator/md/resource/performUnconditionalRewrites.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-4-validator/validator-1-calcite-validator/md/resource/registerQuery.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-4-validator/validator-1-calcite-validator/md/resource/validate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-4-validator/validator-1-calcite-validator/md/resource/validateSelect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-4-validator/validator-1-calcite-validator/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-4-validator/validator-1-calcite-validator/src/main/java/com/github/quxiucheng/calcite/validator/tutorial/CallRewriteSample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-4-validator/validator-1-calcite-validator/src/main/java/com/github/quxiucheng/calcite/validator/tutorial/ColumnReferenceExpansionSample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-4-validator/validator-1-calcite-validator/src/main/java/com/github/quxiucheng/calcite/validator/tutorial/DefaultNullCollationSample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-4-validator/validator-1-calcite-validator/src/main/java/com/github/quxiucheng/calcite/validator/tutorial/IdentifierExpansionSample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-4-validator/validator-1-calcite-validator/src/main/java/com/github/quxiucheng/calcite/validator/tutorial/ValidateSample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/AggregateExpandDistinctAggregatesRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/AggregateExtractProjectRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/AggregateFilterTransposeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/AggregateJoinTransposeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/AggregateProjectMergeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/AggregateProjectPullUpConstantsRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/AggregateReduceFunctionsRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/AggregateRemoveRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/AggregateStarTableRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/AggregateUnionAggregateRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/AggregateUnionTransposeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/AggregateValuesRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/CalcMergeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/CalcRemoveRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/CalcSplitRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/CoerceInputsRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/DateRangeRulesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/FilterAggregateTransposeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/FilterCalcMergeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/FilterCorrelateRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/FilterJoinRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/FilterMergeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/FilterMultiJoinMergeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/FilterProjectTransposeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/FilterRemoveIsNotDistinctFromRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/FilterSetOpTransposeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/FilterTableFunctionTransposeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/FilterTableScanRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/FilterToCalcRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/IntersectToDistinctRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/JoinAddRedundantSemiJoinRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/JoinAssociateRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/JoinCommuteRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/JoinExtractFilterRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/JoinProjectTransposeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/JoinPushExpressionsRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/JoinPushThroughJoinRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/JoinPushTransitivePredicatesRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/JoinToCorrelateRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/JoinToMultiJoinRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/JoinUnionTransposeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/LoptOptimizeJoinRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/MultiJoinOptimizeBushyRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/MultiJoinProjectTransposeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/ProjectCalcMergeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/ProjectCorrelateTransposeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/ProjectJoinTransposeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/ProjectMergeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/ProjectMultiJoinMergeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/ProjectRemoveRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/ProjectSetOpTransposeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/ProjectSortTransposeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/ProjectTableScanRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/ProjectToCalcRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/ProjectToWindowRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/ProjectWindowTransposeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/PruneEmptyRulesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/ReduceExpressionsRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/RuleTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/SemiJoinFilterTransposeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/SemiJoinJoinTransposeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/SemiJoinProjectTransposeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/SemiJoinRemoveRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/SemiJoinRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/SortJoinTransposeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/SortProjectTransposeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/SortRemoveConstantKeysRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/SortRemoveRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/SortUnionTransposeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/SubQueryRemoveRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/TableScanRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/UnionEliminatorRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/UnionMergeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/UnionPullUpConstantsRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/UnionToDistinctRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-9-rule/src/main/java/com/github/quxiucheng/tutorial/rule/ValuesReduceRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-common/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-common/src/main/java/com/github/quxiucheng/tutorial/common/catalog/TutorialCalciteCatalogReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-common/src/main/java/com/github/quxiucheng/tutorial/common/cost/TutorialRelOptCost.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-common/src/main/java/com/github/quxiucheng/tutorial/common/data/MockData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-common/src/main/java/com/github/quxiucheng/tutorial/common/data/TutorialColumn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-common/src/main/java/com/github/quxiucheng/tutorial/common/data/TutorialStatistic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-common/src/main/java/com/github/quxiucheng/tutorial/common/data/TutorialTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-common/src/main/java/com/github/quxiucheng/tutorial/common/data/TutorialTableSchema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-common/src/main/java/com/github/quxiucheng/tutorial/common/function/DedupFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-common/src/main/java/com/github/quxiucheng/tutorial/common/function/DedupTableFunctionReturnTypeInference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-common/src/main/java/com/github/quxiucheng/tutorial/common/parser/SqlParserBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-common/src/main/java/com/github/quxiucheng/tutorial/common/sql2rel/SqlToRelBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-common/src/main/java/com/github/quxiucheng/tutorial/common/sql2rel/SqlToRelConverterBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-common/src/main/java/com/github/quxiucheng/tutorial/common/sql2rel/TutorialSqlToRelConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcite-tutorial-common/src/main/java/com/github/quxiucheng/tutorial/common/validate/TutorialSqlValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="24xLiH7uDK5tv0zAYxkN4CwHC7o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/calcite-tutorial-2-parser/grcs/src/main/java" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/calcite-tutorial-2-parser/grcs/src/main/java" />
+      <recent name="$PROJECT_DIR$/calcite-tutorial-2-parser/grcs/src" />
+      <recent name="$PROJECT_DIR$/calcite-tutorial-2-parser" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/calcite-tutorial-2-parser/grcs/src/main/java/com" />
+      <recent name="$PROJECT_DIR$/calcite-tutorial-2-parser/grcs/src/main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SqlCreateFunctionMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.quxiucheng.calcite.parser.tutorial.SqlCreateFunctionMain" />
+      <module name="parser-4-calcite-custom-tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.quxiucheng.calcite.parser.tutorial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SqlCreateFunctionMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6876bd52-8a73-45a9-a7a6-3639cc982a1c" name="Default Changelist" comment="" />
+      <created>1644567416895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644567416895</updated>
+      <workItem from="1644567426595" duration="142000" />
+      <workItem from="1644568183965" duration="239000" />
+      <workItem from="1644569307288" duration="6480000" />
+      <workItem from="1644912377671" duration="1262000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="287" key="GridCell.Tab.0.bottom" timestamp="1644913680157">
+      <screen x="-1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="287" key="GridCell.Tab.0.bottom/0.25.1440.766/-1920.25.1920.1055@-1920.25.1920.1055" timestamp="1644913680157" />
+    <state width="1398" height="193" key="GridCell.Tab.0.bottom/0.25.1440.769/-1920.25.1920.1055@-1920.25.1920.1055" timestamp="1644576725611" />
+    <state width="1398" height="193" key="GridCell.Tab.0.bottom/0.25.1440.769/-1920.25.1920.1055@0.25.1440.769" timestamp="1644574427288" />
+    <state width="1398" height="193" key="GridCell.Tab.0.bottom/0.25.1440.769@0.25.1440.769" timestamp="1644567525743" />
+    <state width="1878" height="287" key="GridCell.Tab.0.center" timestamp="1644913680156">
+      <screen x="-1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="287" key="GridCell.Tab.0.center/0.25.1440.766/-1920.25.1920.1055@-1920.25.1920.1055" timestamp="1644913680156" />
+    <state width="1398" height="193" key="GridCell.Tab.0.center/0.25.1440.769/-1920.25.1920.1055@-1920.25.1920.1055" timestamp="1644576725611" />
+    <state width="1398" height="193" key="GridCell.Tab.0.center/0.25.1440.769/-1920.25.1920.1055@0.25.1440.769" timestamp="1644574427286" />
+    <state width="1398" height="193" key="GridCell.Tab.0.center/0.25.1440.769@0.25.1440.769" timestamp="1644567525742" />
+    <state width="1878" height="287" key="GridCell.Tab.0.left" timestamp="1644913680155">
+      <screen x="-1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="287" key="GridCell.Tab.0.left/0.25.1440.766/-1920.25.1920.1055@-1920.25.1920.1055" timestamp="1644913680155" />
+    <state width="1398" height="193" key="GridCell.Tab.0.left/0.25.1440.769/-1920.25.1920.1055@-1920.25.1920.1055" timestamp="1644576725611" />
+    <state width="1398" height="193" key="GridCell.Tab.0.left/0.25.1440.769/-1920.25.1920.1055@0.25.1440.769" timestamp="1644574427286" />
+    <state width="1398" height="193" key="GridCell.Tab.0.left/0.25.1440.769@0.25.1440.769" timestamp="1644567525741" />
+    <state width="1878" height="287" key="GridCell.Tab.0.right" timestamp="1644913680156">
+      <screen x="-1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="287" key="GridCell.Tab.0.right/0.25.1440.766/-1920.25.1920.1055@-1920.25.1920.1055" timestamp="1644913680156" />
+    <state width="1398" height="193" key="GridCell.Tab.0.right/0.25.1440.769/-1920.25.1920.1055@-1920.25.1920.1055" timestamp="1644576725611" />
+    <state width="1398" height="193" key="GridCell.Tab.0.right/0.25.1440.769/-1920.25.1920.1055@0.25.1440.769" timestamp="1644574427287" />
+    <state width="1398" height="193" key="GridCell.Tab.0.right/0.25.1440.769@0.25.1440.769" timestamp="1644567525742" />
+    <state x="208" y="25" key="SettingsEditor" timestamp="1644573056661">
+      <screen x="0" y="25" width="1440" height="769" />
+    </state>
+    <state x="208" y="25" key="SettingsEditor/0.25.1440.769/-1920.25.1920.1055@0.25.1440.769" timestamp="1644573056661" />
+    <state width="254" height="200" key="ShowFilterAction_Filter_Popup" timestamp="1644575517251">
+      <screen x="-1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="254" height="200" key="ShowFilterAction_Filter_Popup/0.25.1440.769/-1920.25.1920.1055@-1920.25.1920.1055" timestamp="1644575517251" />
+    <state x="-1407" y="153" width="894" height="928" key="search.everywhere.popup" timestamp="1644576705917">
+      <screen x="-1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="-1407" y="153" width="894" height="928" key="search.everywhere.popup/0.25.1440.769/-1920.25.1920.1055@-1920.25.1920.1055" timestamp="1644576705917" />
+    <state x="385" y="118" width="670" height="676" key="search.everywhere.popup/0.25.1440.769/-1920.25.1920.1055@0.25.1440.769" timestamp="1644574131326" />
+  </component>
+</project>

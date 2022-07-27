@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="parser-4-calcite-custom-tutorial" />
+        <module name="grcs" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="apache-calcite-tutorial" target="1.8" />
+      <module name="calcite-tutorial-0-translation" target="1.8" />
+      <module name="calcite-tutorial-1-basic" target="1.8" />
+      <module name="calcite-tutorial-2-parser" target="1.8" />
+      <module name="calcite-tutorial-3-schema" target="1.8" />
+      <module name="calcite-tutorial-4-validator" target="1.8" />
+      <module name="calcite-tutorial-9-rule" target="1.8" />
+      <module name="calcite-tutorial-common" target="1.8" />
+      <module name="grcs" target="1.8" />
+      <module name="parser-1-fmpp-tutorial" target="1.8" />
+      <module name="parser-2-javacc-tutorial" target="1.8" />
+      <module name="parser-3-calcite-tutorial" target="1.8" />
+      <module name="parser-4-calcite-custom-tutorial" target="1.8" />
+      <module name="validator-1-calcite-validator" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

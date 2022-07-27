@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/calcite-tutorial-2-parser/grcs/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/calcite-tutorial-0-translation/pom.xml" />
+        <option value="$PROJECT_DIR$/calcite-tutorial-1-basic/pom.xml" />
+        <option value="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-1-fmpp-tutorial/pom.xml" />
+        <option value="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-2-javacc-tutorial/pom.xml" />
+        <option value="$PROJECT_DIR$/calcite-tutorial-2-parser/parser-3-calcite-tutorial/pom.xml" />
+        <option value="$PROJECT_DIR$/calcite-tutorial-3-schema/pom.xml" />
+        <option value="$PROJECT_DIR$/calcite-tutorial-4-validator/pom.xml" />
+        <option value="$PROJECT_DIR$/calcite-tutorial-9-rule/pom.xml" />
+        <option value="$PROJECT_DIR$/calcite-tutorial-common/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
