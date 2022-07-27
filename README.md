@@ -5,4 +5,4 @@
                connector-elasticsearch-base
                connector-kudu
                connector-redis
-# 测试工程 src
+# 测试工程 srcgit 
