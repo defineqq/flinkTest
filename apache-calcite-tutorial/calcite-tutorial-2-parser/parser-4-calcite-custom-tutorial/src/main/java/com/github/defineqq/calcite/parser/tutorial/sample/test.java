@@ -22,6 +22,7 @@ public class test {
         SqlNode sqlNode = null;
         try {
             sqlNode = sqlParser.parseStmt();
+            System.out.println(sqlNode.getKind());
         } catch (SqlParseException e) {
             throw new RuntimeException("", e);
         }
