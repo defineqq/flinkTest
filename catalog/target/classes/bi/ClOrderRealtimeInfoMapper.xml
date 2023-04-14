@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="service.ClOrderRealtimeInfoMapper">
+
+
+    <insert id="insert" parameterType="models.ClOrderRealtimeModel">
+
+        insert into cl_order_realtime_info (dt,country, recharge_money,payment_id,
+        uid,recharge_code,recharge_status,updated_at, created_at)
+        value(#{dt},#{country} ,#{recharge_money},#{payment_id}, #{uid},#{recharge_code},#{recharge_status},#{updated_at},
+        #{created_at})
+        ON DUPLICATE KEY UPDATE
+        <if test="recharge_status != null ">
+            recharge_status =  #{recharge_status},
+        </if>
+
+        <if test="updated_at != null ">
+            updated_at =  #{updated_at}
+        </if>
+
+    </insert>
+
+</mapper>
