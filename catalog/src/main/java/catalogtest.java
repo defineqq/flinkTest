@@ -1,6 +1,3 @@
-package Launcher;
-
-
 import org.apache.flink.api.common.eventtime.SerializableTimestampAssigner;
 import org.apache.flink.api.common.eventtime.WatermarkStrategy;
 import org.apache.flink.api.common.functions.ReduceFunction;
@@ -17,7 +14,7 @@ import org.apache.flink.streaming.runtime.operators.windowing.TimestampedValue;
 
 import java.time.Duration;
 //nc -lk 9999
-public class sinkFunction {
+public class catalogtest {
     public static void main(String[] args) throws Exception {
         System.out.println("test1");
 
