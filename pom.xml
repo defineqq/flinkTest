@@ -33,6 +33,7 @@
         <scala-binary>2.11</scala-binary>
         <spring.boot.version>2.2.8.RELEASE</spring.boot.version>
         <hadoop.version>3.1.4</hadoop.version>
+
     </properties>
 
     <dependencyManagement>
