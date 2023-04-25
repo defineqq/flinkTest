@@ -1,9 +1,0 @@
-/Users/congpeng/Desktop/flinkTest/connector-kudu/src/main/java/com/datacenter/streaming/sql/connectors/kudu/KuduLookupFunction.java
-/Users/congpeng/Desktop/flinkTest/connector-kudu/src/main/java/com/datacenter/streaming/sql/connectors/kudu/table/KuduDynamicTableFactory.java
-/Users/congpeng/Desktop/flinkTest/connector-kudu/src/main/java/com/datacenter/streaming/sql/connectors/kudu/KuduOutputFormat.java
-/Users/congpeng/Desktop/flinkTest/connector-kudu/src/main/java/com/datacenter/streaming/sql/connectors/kudu/KuduOptions.java
-/Users/congpeng/Desktop/flinkTest/connector-kudu/src/main/java/com/datacenter/streaming/sql/connectors/kudu/utils/KuduUtils.java
-/Users/congpeng/Desktop/flinkTest/connector-kudu/src/main/java/com/datacenter/streaming/sql/connectors/kudu/KuduLookupOptions.java
-/Users/congpeng/Desktop/flinkTest/connector-kudu/src/main/java/com/datacenter/streaming/sql/connectors/kudu/KuduSinkOptions.java
-/Users/congpeng/Desktop/flinkTest/connector-kudu/src/main/java/com/datacenter/streaming/sql/connectors/kudu/table/KuduDynamicTableSource.java
-/Users/congpeng/Desktop/flinkTest/connector-kudu/src/main/java/com/datacenter/streaming/sql/connectors/kudu/table/KuduDynamicTableSink.java
