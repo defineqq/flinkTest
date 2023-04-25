@@ -9,14 +9,16 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>dstream-apps</module>
-        <module>apache-calcite-tutorial</module>
-        <module>codegen</module>
-        <module>connector-elasticsearch6</module>
-        <module>connector-elasticsearch7</module>
-        <module>connector-elasticsearch-base</module>
-        <module>connector-kudu</module>
-        <module>connector-redis</module>
+<!--        过于卡顿 屏蔽了 其他的子项目 用到谁 放出谁-->
+<!--        <module>dstream-apps</module>-->
+<!--        <module>apache-calcite-tutorial</module>-->
+<!--        <module>codegen</module>-->
+<!--        <module>connector-elasticsearch6</module>-->
+<!--        <module>connector-elasticsearch7</module>-->
+<!--        <module>connector-elasticsearch-base</module>-->
+<!--        <module>connector-kudu</module>-->
+<!--        <module>connector-redis</module>-->
+                <module>flinkcdc</module>
     </modules>
 
 

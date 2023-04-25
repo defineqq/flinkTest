@@ -6,7 +6,7 @@ import org.apache.flink.table.api.bridge.java.StreamTableEnvironment;
 import org.apache.flink.table.catalog.hive.HiveCatalog;
 
 ///这里用的是flink 1.14.5版本的flink
-public class catalogtest {
+public class cdctest {
 
 
     public static void main(String[] args) throws Exception {

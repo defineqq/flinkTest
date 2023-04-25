@@ -12,6 +12,8 @@ import org.apache.kudu.client.KuduTable;
 import org.apache.kudu.client.PartialRow;
 import org.apache.kudu.client.SessionConfiguration;
 import org.apache.kudu.client.Upsert;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import java.io.IOException;
 
@@ -22,6 +24,7 @@ import java.io.IOException;
  */
 @Slf4j
 public class KuduOutputFormat implements OutputFormat<RowData> {
+    public static final Logger LOGGER = LogManager.getLogger(KuduOutputFormat.class);
 
     private String master;
     private String table;
@@ -121,7 +124,7 @@ public class KuduOutputFormat implements OutputFormat<RowData> {
             }
 
         } catch (Exception ex) {
-            LOG.error("释放连接", ex);
+            LOGGER.error("释放连接", ex);
         }
     }
 

@@ -14,6 +14,8 @@ import org.apache.kudu.client.KuduScanner;
 import org.apache.kudu.client.KuduTable;
 import org.apache.kudu.client.RowResult;
 import org.apache.kudu.client.RowResultIterator;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -31,6 +33,8 @@ import static org.apache.flink.util.Preconditions.checkArgument;
  */
 @Slf4j
 public class KuduLookupFunction extends TableFunction<Row> {
+    public static final Logger LOGGER = LogManager.getLogger(KuduLookupFunction.class);
+
 
     private static final long serialVersionUID = 1L;
 
@@ -123,7 +127,7 @@ public class KuduLookupFunction extends TableFunction<Row> {
                 kuduClient.close();
             }
         } catch (Exception ex) {
-            LOG.error("释放连接...", ex);
+            LOGGER.error(ex);
         }
 
     }
@@ -188,7 +192,7 @@ public class KuduLookupFunction extends TableFunction<Row> {
                 }
                 break;
             } catch (Exception ex) {
-                LOG.error("Get data from kudu exception. KuduTable: {} KuduField: {} KuduFieldValue: {}", table, Arrays.asList(keyNames).toString(), Arrays.asList(keys).toString(), ex);
+                LOGGER.error("Get data from kudu exception. KuduTable: {} KuduField: {} KuduFieldValue: {}", table, Arrays.asList(keyNames).toString(), Arrays.asList(keys).toString(), ex);
                 try {
                     Thread.sleep(1000 * retry);
                 } catch (InterruptedException e1) {
