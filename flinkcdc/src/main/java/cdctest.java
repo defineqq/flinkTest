@@ -1,34 +1,47 @@
+import org.apache.flink.streaming.api.CheckpointingMode;
 import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
-import org.apache.flink.table.api.DataTypes;
-import org.apache.flink.table.api.Schema;
-import org.apache.flink.table.api.TableDescriptor;
 import org.apache.flink.table.api.bridge.java.StreamTableEnvironment;
-import org.apache.flink.table.catalog.hive.HiveCatalog;
 
-///这里用的是flink 1.14.5版本的flink
+
+//source ~/.bash_profile
+//本地mysql 用户root  密码 11111111
+//127.0.0.1
+///usr/local/mysql/data
+
 public class cdctest {
 
 
     public static void main(String[] args) throws Exception {
         System.out.println("啥啥啥");
         StreamExecutionEnvironment env = StreamExecutionEnvironment.getExecutionEnvironment();
+        env.enableCheckpointing(1000, CheckpointingMode.EXACTLY_ONCE);
+//        env.getCheckpointConfig().setCheckpointStorage("/");
         StreamTableEnvironment tenv = StreamTableEnvironment.create(env);
-        HiveCatalog hivecatalog = new HiveCatalog("hive","default","conf/hiveconf/hive-site.xml");
-        tenv.registerCatalog("mycatalog",hivecatalog);
 
-        tenv.executeSql("create table mycatalog.table1");
-        tenv.executeSql("select * from  mycatalog.default.table1");//没有指定数据库，默认存放到了hive的default 中
 
-        tenv.executeSql("create view mycatalog.default.view1");
-        tenv.executeSql("select * from  mycatalog.default.view1");
+        tenv.executeSql("create table flinka \n" +
+                "(\n" +
+                "        id int, \n" +
+                "        primary key(id) not enforced \n" +
+                ") with (\n" +
+                "        'connector' = 'mysql-cdc', \n" +
+                "        'hostname'='localhost', \n" +
+                "        'port'='3306', \n" +
+                "        'username'='root', \n" +
+                "        'password'='11111111', \n" +
+                "        'database-name'='mysql', \n" +
+                "        'table-name'='a'\n" +
+                ")"
+        );
 
-        tenv.executeSql("use catalog mycatalog");
-        tenv.executeSql("show catalogs").print();
-        tenv.executeSql("use catalog default");
-        tenv.executeSql("show catalogs").print();
+        tenv.executeSql("select * from flinka").print();
 
-        tenv.executeSql("create temporary table mycatalog.table1");
-        tenv.listCatalogs();
+
+
+//        env.execute();
+
+
+
 
     }
 
